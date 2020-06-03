@@ -8,7 +8,10 @@ namespace Core.lib
             
         }      
  
+        void test2(){
 
+            
+        }
 
     }
 }
